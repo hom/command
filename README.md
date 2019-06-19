@@ -8,6 +8,16 @@ Awesome command usage:bow:
 - [x] `cut`
 - [x] `date`
 - [ ] `firewall-cmd`
+- [ ] `grep`
+- [ ] `mongo`
+- [ ] `iputils`
+- [ ] `net-tools`
+- [ ] `nohup`
+- [ ] `scp`
+- [ ] `sort`
+- [ ] `uniq`
+- [ ] `wc`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0ODE3MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDY0ODMzMzddfQ==
 -->
