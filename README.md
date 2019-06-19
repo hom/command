@@ -7,17 +7,17 @@ Awesome command usage:bow:
 - [ ] `tar`
 - [x] `cut`
 - [x] `date`
-- [ ] `firewall-cmd`
-- [ ] `grep`
-- [ ] `mongo`
-- [ ] `iputils`
-- [ ] `net-tools`
-- [ ] `nohup`
-- [ ] `scp`
-- [ ] `sort`
-- [ ] `uniq`
-- [ ] `wc`
+- [x] `firewall-cmd`
+- [x] `grep`
+- [x] `mongo`
+- [x] `iputils`
+- [x] `net-tools`
+- [x] `nohup`
+- [x] `scp`
+- [x] `sort`
+- [x] `uniq`
+- [x] `wc`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY0ODMzMzddfQ==
+eyJoaXN0b3J5IjpbLTE5NTQwMDQzNjFdfQ==
 -->
