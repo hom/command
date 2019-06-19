@@ -3,7 +3,7 @@ Awesome command usage:bow:
 
 ## todo
 - [ ] `tcpdump`
-- [ ] `traceroute`
+- [x] `traceroute`
 - [ ] `tar`
 - [x] `cut`
 - [x] `date`
@@ -17,7 +17,8 @@ Awesome command usage:bow:
 - [x] `sort`
 - [x] `uniq`
 - [x] `wc`
+- [x] `curl`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQwMDQzNjFdfQ==
+eyJoaXN0b3J5IjpbOTI1NzE4ODA2XX0=
 -->
