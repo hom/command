@@ -11,14 +11,10 @@ Awesome command usage:bow:
 - [x] `grep`
 - [x] `mongo`
 - [x] `iputils`
-- [x] `net-tools`
+- [x] [`net-tools`](./command/net-tools.md)
 - [x] `nohup`
 - [x] `scp`
 - [x] `sort`
 - [x] `uniq`
 - [x] `wc`
 - [x] `curl`
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NzE4ODA2XX0=
--->
