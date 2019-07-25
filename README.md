@@ -1,20 +1,23 @@
 # command
+
 Awesome command usage:bow:
 
 ## todo
-- [ ] `tcpdump`
-- [x] `traceroute`
-- [ ] `tar`
-- [x] `cut`
-- [x] `date`
-- [x] `firewall-cmd`
-- [x] `grep`
-- [x] `mongo`
-- [x] `iputils`
-- [x] [`net-tools`](./command/net-tools.md)
-- [x] `nohup`
-- [x] `scp`
-- [x] `sort`
-- [x] `uniq`
-- [x] `wc`
-- [x] `curl`
+
+- [ ] [`tcpdump`](./commands/tcpdump.md)
+- [x] [`traceroute`](./commands/traceroute.md)
+- [ ] [`tar`](./commands/tar.md)
+- [x] [`cut`](./commands/cut.md)
+- [x] [`date`](./commands/date.md)
+- [x] [`firewall-cmd`](./commands/firewall-cmd.md)
+- [x] [`grep`](./commands/grep.md)
+- [x] [`mongo`](./commands/mongo.md)
+- [x] [`iputils`](./commands/iputils.md)
+- [x] [`net-tools`](./commands/net-tools.md)
+- [x] [`nohup`](./commands/nohup.md)
+- [x] [`scp`](./commands/scp.md)
+- [x] [`sort`](./commands/sort.md)
+- [x] [`uniq`](./commands/uniq.md)
+- [x] [`wc`](./commands/wc.md)
+- [x] [`curl`](./commands/curl.md)
+- [x] [`bind-utils`](./commands/bind-utils.md)
