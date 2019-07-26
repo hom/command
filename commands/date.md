@@ -118,6 +118,3 @@ date --date='TZ="America/Los_Angeles" 09:00 next Fri'
 GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
 请向<http://translationproject.org/team/zh_CN.html> 报告date 的翻译错误
 要获取完整文档，请运行：info coreutils 'date invocation'
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjUxMjAyN119
--->

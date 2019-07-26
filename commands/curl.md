@@ -139,6 +139,3 @@ curl --header "Content-Type:application/json" http://example.com
 ```bash
 url --user name:password example.com
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEzNjYxOTVdfQ==
--->

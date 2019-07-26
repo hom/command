@@ -1,8 +1,9 @@
-## grep命令
+# grep
 
-### 命令简介
 `grep`是`Linux`中强大的文本搜索工具，命令格式为`grep [option] <pattern> file`
-### 命令参数
+
+## 命令参数
+
 - `-a` `--text` #不要忽略二进制的数据
 - `-A`<显示行数> `--after-content`=<显示行数> #除了显示符合匹配样式的那行之外，并显示该行之后的内容
 - `-b` `--byte-offset` #在显示符合样式的那一行之前，标识出该行第一个字符的编号
@@ -29,6 +30,3 @@
 - `-w` `--word-regexp` #只显示全字符合的列
 - `-x` `--line-regexp` #只显示全列符合的列
 - `-y` #此参数的效果和指定`-i`参数相同
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI5MTYxNl19
--->
