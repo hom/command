@@ -22,3 +22,4 @@ Awesome command usage:bow:
 - [x] [`curl`](./commands/curl.md)
 - [x] [`bind-utils`](./commands/bind-utils.md)
 - [x] [`du`]('./commands/du.md)
+- [x] [`w`]('./commands/w.md)
