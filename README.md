@@ -26,3 +26,4 @@ Awesome command usage:bow:
 - [x] [`ss`]('./commands/ss.md')
 - [x] [`time`]('./commands/time.md')
 - [ ] [`nm`]('./commands/nm.md)
+- [ ] [`xxd`]('./commands/xxd.md')
